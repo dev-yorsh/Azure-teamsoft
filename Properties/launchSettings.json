@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "azure_function_ventas": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7206",
+      "launchBrowser": false
+    }
+  }
+}
